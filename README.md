@@ -20,7 +20,7 @@ teardown message, and no reliance on the browser behaving correctly on its way o
 
 - [jetbot-agent](https://github.com/derekclair/jetbot-agent) — the Python control plane on the robot
 - **jetbot-console** — this repo, the operator UI
-- [jetbot-infra](https://github.com/derekclair/jetbot-infra) — Terraform for the cloud gateway
+- [jetbot-iac](https://github.com/derekclair/jetbot-iac) — Terraform for the cloud gateway
 
 ## License
 
